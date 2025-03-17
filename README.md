@@ -24,16 +24,10 @@ Make sure you have Node.js and Angular CLI installed on your machine.
 
 ## Running
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Diagnoster/pokeapi-angular.git
-2. Navigate to the project directory:
-   ```bash
-   cd repository
-3. Install project dependencies:
+1. Install project dependencies:
    ```bash
    npm install
-4. Start Angular Application:
+2. Start Angular Application:
     ```bash
     ng serve -o
 
